@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: Trunng5703/Web_W10_DemoCICD:staging
+          tags: trunng5703/web_w10_democicd:staging
 
 
   pull-and-up:
