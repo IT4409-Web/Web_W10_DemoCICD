@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: lamdb/ci-cd:staging
+          tags: trunng5703/Web_W10_DemoCICD:staging
 
 
   pull-and-up:
